@@ -26,5 +26,18 @@ namespace ENZ_MediaPlayer
         {
 
         }
+
+        private void LoadBtn_Click(object sender, EventArgs e)
+        {
+            ENZMediaPlayer1.URL = textBox1.Text;
+            openFileDialog1.ShowDialog();
+            textBox1.Text = openFileDialog1.FileName;
+            ENZMediaPlayer1.URL = textBox1.Text;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ENZMediaPlayer1.Controls
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\bin\Debug\ENZ-MediaPlayer.exe.config
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\bin\Debug\ENZ-MediaPlayer.exe
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\bin\Debug\ENZ-MediaPlayer.pdb
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ_MediaPlayer.Form1.resources
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ_MediaPlayer.Properties.Resources.resources
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.exe
+C:\Users\Tr0j4n9!\Documents\GitHub\E-NZ_Media-player\obj\Debug\ENZ-MediaPlayer.pdb
